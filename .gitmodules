@@ -1,4 +1,4 @@
-[submodule "INNOVAHN10"]
-	path = INNOVAHN10
-	url = git@github.com:Innovahn/INNOVAHN10.git
+[submodule "CM-AIRLINES"]
+	path = CM-AIRLINES
+	url = git@git.vauxoo.com:vauxoo/cm-airlines.git
 	branch = master
