@@ -1,4 +1,3 @@
-[submodule "CM-AIRLINES"]
-	path = CM-AIRLINES
+[submodule "cm-airlines"]
+	path = cm-airlines
 	url = git@git.vauxoo.com:vauxoo/cm-airlines.git
-	branch = master
